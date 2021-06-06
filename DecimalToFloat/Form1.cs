@@ -21,7 +21,7 @@ namespace DecimalToFloat
 
 
         /// <summary>
-        /// Convert the data within the RGBA decimal values to float.
+        /// Convert the data within the RGBA text feild values to float, then display as hexadecimal.
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
