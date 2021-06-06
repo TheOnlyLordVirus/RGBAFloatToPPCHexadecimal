@@ -1,0 +1,15 @@
+C:\Users\Owner\source\repos\DecimalToFloat\DecimalToFloat\bin\Debug\netcoreapp3.1\DecimalToFloat.exe
+C:\Users\Owner\source\repos\DecimalToFloat\DecimalToFloat\bin\Debug\netcoreapp3.1\DecimalToFloat.deps.json
+C:\Users\Owner\source\repos\DecimalToFloat\DecimalToFloat\bin\Debug\netcoreapp3.1\DecimalToFloat.runtimeconfig.json
+C:\Users\Owner\source\repos\DecimalToFloat\DecimalToFloat\bin\Debug\netcoreapp3.1\DecimalToFloat.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\DecimalToFloat\DecimalToFloat\bin\Debug\netcoreapp3.1\DecimalToFloat.dll
+C:\Users\Owner\source\repos\DecimalToFloat\DecimalToFloat\bin\Debug\netcoreapp3.1\DecimalToFloat.pdb
+C:\Users\Owner\source\repos\DecimalToFloat\DecimalToFloat\obj\Debug\netcoreapp3.1\DecimalToFloat.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\DecimalToFloat\DecimalToFloat\obj\Debug\netcoreapp3.1\DecimalToFloat.MainForm.resources
+C:\Users\Owner\source\repos\DecimalToFloat\DecimalToFloat\obj\Debug\netcoreapp3.1\DecimalToFloat.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\DecimalToFloat\DecimalToFloat\obj\Debug\netcoreapp3.1\DecimalToFloat.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\DecimalToFloat\DecimalToFloat\obj\Debug\netcoreapp3.1\DecimalToFloat.AssemblyInfo.cs
+C:\Users\Owner\source\repos\DecimalToFloat\DecimalToFloat\obj\Debug\netcoreapp3.1\DecimalToFloat.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\DecimalToFloat\DecimalToFloat\obj\Debug\netcoreapp3.1\DecimalToFloat.dll
+C:\Users\Owner\source\repos\DecimalToFloat\DecimalToFloat\obj\Debug\netcoreapp3.1\DecimalToFloat.pdb
+C:\Users\Owner\source\repos\DecimalToFloat\DecimalToFloat\obj\Debug\netcoreapp3.1\DecimalToFloat.genruntimeconfig.cache
