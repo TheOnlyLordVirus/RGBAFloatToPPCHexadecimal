@@ -51,7 +51,7 @@ namespace DecimalToFloat
 
             else
             {
-                MessageBox.Show("You must input float value number you fucking dumbass!", "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("You must input float value number!", "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
